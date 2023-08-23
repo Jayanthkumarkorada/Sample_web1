@@ -15,11 +15,16 @@ h1{
 a{
     margin-right:70px;
     text-decoration: none;
-    color: rgb(rgb(30, 153, 235), green, blue);
+    font-weight: 800;
+    /* color: rgb(rgb(30, 153, 235), green, blue); */
+    /* color:antiquewhite; */
+    color: rgb(174, 207, 24);
+    
     font-family: sans-serif;
 }
 a:hover{
-    color: rgb(174, 207, 24);
+    color:hsl(354.38,70.8%,44.31%);
+   
 }
 .dj{
 align-items: center;
@@ -41,4 +46,7 @@ button{
     width: 7%;
     height: 2rem;
     border-radius: 5px;
+    background-color: blueviolet;
+    color:antiquewhite;
+    font-weight: 800;
 }
