@@ -1,0 +1,44 @@
+body{
+    background-image: url(1.jpg.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+    color:white;
+}
+.sai{
+    /* border: 2px solid green; */
+    text-align: right;
+}
+a{
+    margin-right:70px;
+    text-decoration: none;
+    color: rgb(rgb(30, 153, 235), green, blue);
+    font-family: sans-serif;
+}
+a:hover{
+    color: rgb(174, 207, 24);
+}
+.dj{
+align-items: center;
+width: 20%;
+height: 1.5rem;
+border-radius: 7px;
+}
+#id{
+    font-size: 20px;
+}
+center{
+    margin-top: 10%;
+}
+label{
+    color: #fff;
+}
+button{
+    margin-left: 20px;
+    width: 7%;
+    height: 2rem;
+    border-radius: 5px;
+}
